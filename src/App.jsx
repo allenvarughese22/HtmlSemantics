@@ -21,7 +21,6 @@ function App() {
         </ul>
         <div>
           <h4> for reference: pls use the below lings</h4>
-          <a href="https://www.google.com"> google Link </a>
           Go to Google
         </div>
         <br />
