@@ -27,7 +27,6 @@ function App() {
         <br />
         <div>
           <b> keywords used in javascript</b>
-          <img src="https://miro.medium.com/v2/resize:fit:1400/1*4UNw4zrgC2cdh9Voon6K0A.png"></img>
         </div>
       </>
     </>
